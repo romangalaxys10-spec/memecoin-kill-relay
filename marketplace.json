@@ -1,0 +1,19 @@
+{
+  "name": "memecoin-kill-relay-marketplace",
+  "plugins": [
+    {
+      "name": "memecoin-kill-relay",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Kill-first memecoin screening relay from 0xNevsky's 13-line prompt: five stages (SCOUT, FILTER, ANALYST, EXECUTOR, RISK) pass each candidate down the chain and any single veto kills the coin. Analysis and vetting only; no trade is executed without explicit human approval. Not verified or personally tested; created based on an X.com post.",
+      "displayName": "Memecoin Kill Relay",
+      "displayName_i18n": {
+        "zh-CN": "迷因币一票否决流水线"
+      },
+      "description_i18n": {
+        "zh-CN": "来自 0xNevsky 13 行提示词的「先杀后买」迷因币筛查流水线：SCOUT、FILTER、ANALYST、EXECUTOR、RISK 五段接力，任一环节否决即判死。仅做分析与审查，未经人工明确批准不执行交易。基于 X.com 帖子创建，未经作者验证或实测。"
+      },
+      "category": "finance"
+    }
+  ]
+}

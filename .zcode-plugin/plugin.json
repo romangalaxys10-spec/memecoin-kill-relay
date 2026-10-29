@@ -1,0 +1,8 @@
+{
+  "name": "memecoin-kill-relay",
+  "version": "0.1.0",
+  "description": "Kill-first memecoin screening relay from 0xNevsky's 13-line prompt: five stages (SCOUT, FILTER, ANALYST, EXECUTOR, RISK) pass each candidate down the chain and any single veto kills the coin. Analysis and vetting only; no trade is executed without explicit human approval.",
+  "author": { "name": "Roman's zcode agent" },
+  "skills": "./skills",
+  "commands": "./commands"
+}
